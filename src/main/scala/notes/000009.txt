@@ -1,0 +1,182 @@
+Admission Date:  [**2154-7-1**]              Discharge Date:   [**2154-7-12**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**]
+Chief Complaint:
+exertional angina/NSTEMI
+
+Major Surgical or Invasive Procedure:
+cabg x3  [**2154-7-5**]  (LIMA to LAD, SVG to OM, SVG to RCA)
+
+
+History of Present Illness:
+81 yo male presented to [**Hospital3 **] with exertional chest
+pain and elev. troponin. transferred to [**Hospital1 18**] for cardiac cath
+which revealed heavily calcified coronaries, LM 30%, LAD
+aneurysmal 80%, diag 3 60%, CX 80%, RCA 80%, RPL and AM disease.
+Referred to Dr. [**Last Name (STitle) **] for cabg.
+
+Past Medical History:
+NSTEMI
+esoph. dilat. 30 years ago
+asthma
+TIA
+elev. chol.
+ulcerative colitis
+HTN
+GERD
+OA
+hiatal herniorrhaphy
+tonsillectomy
+
+Social History:
+owns farm
+lives with wife
+no tobacco for 7 years
+no ETOH use
+
+
+Family History:
+father with angina age 60
+
+Physical Exam:
+HR 68  RR 20  BP 135/65
+5'[**58**]"   70.3 kg
+NAD
+skin/HEENT unremarkable
+neck supple, no carotid bruits
+CTAB
+RRR no murmur
+soft, NT, ND
+extrems warm and well-perfused, no edema
+bilat. LE varicosities left greater than right
+neuro grossly intact
+2+ fem/radial pulses; NP  PT/DPs
+
+
+Pertinent Results:
+[**2154-7-11**] 07:10AM BLOOD WBC-11.3* RBC-3.25* Hgb-9.1* Hct-27.8*
+MCV-86 MCH-28.1 MCHC-32.8 RDW-14.9 Plt Ct-377#
+[**2154-7-11**] 07:10AM BLOOD PT-14.0* INR(PT)-1.2*
+[**2154-7-11**] 07:10AM BLOOD Plt Ct-377#
+[**2154-7-11**] 07:10AM BLOOD Glucose-102 UreaN-15 Creat-0.7 Na-140
+K-4.2 Cl-101 HCO3-29 AnGap-14
+[**2154-7-1**] 01:35PM BLOOD ALT-18 AST-24 AlkPhos-75 TotBili-0.5
+[**2154-7-8**] 02:00AM BLOOD Calcium-8.0* Phos-2.8 Mg-2.1
+[**2154-7-1**] 01:35PM BLOOD %HbA1c-6.2* [Hgb]-DONE [A1c]-DONE
+[**2154-7-1**] 01:35PM BLOOD Triglyc-114 HDL-49 CHOL/HD-3.2 LDLcalc-87
+
+Brief Hospital Course:
+Admitted [**7-1**] to cardiology and underwent cath. Was given large
+loading dose of plavix on [**6-30**] with additional dose on [**7-1**]. Dr.
+[**Last Name (STitle) **] elected to wait several days to let the plavix wear off
+prior to cabg. Carotid US performed in the interim showed
+significant left carotid dz. He underwent cabg x3 on [**7-5**] and
+was transferred to the CSRU in stable condition on titrated
+propofol and phenylephrine drips. Extubated successfully that
+evening and remained on a phenylephrine drip on POD #1 in SR
+with a BBB. Weaned off neo on POD #2 and chest tubes were
+removed. He was transferred to the floor to begin increasing his
+activity level. Beta blockade and gentle diuresis were started.
+Had rapid AFib that evening and was transfused one unit PRBCs.
+Amiodarone was started and he converted to SR.
+
+Pacing wires removed on POD #4 and he was encouraged to increase
+his pulm. toilet and ambulation. He developed left forearm
+phlebitis with a pustule on POD #5 and was started on abx and
+seen by vascular. It was also noted he had some sacral
+breakdown(HD #11). Ultrasound of his left arm revealed no fluid
+collection, he has remained stable hemodynamically, and he is
+ready to be discharged home today.
+
+Medications on Admission:
+Ventolin MDI
+protonix
+lipitor 80 mg daily
+ASA 325 mg every other day at home, 81 mg daily on transfer
+lopressor 25 mg [**Hospital1 **]
+flovent 2 puffs [**Hospital1 **]
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*1*
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day) for 3 days: then 400 mg daily for 7 days, then 200 mg
+daily ongoing.
+Disp:*40 Tablet(s)* Refills:*1*
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+Disp:*2 MDI* Refills:*1*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO three
+times a day.
+Disp:*90 Tablet(s)* Refills:*0*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 1 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+10. Potassium Chloride 10 mEq Capsule, Sustained Release Sig:
+Two (2) Capsule, Sustained Release PO Q12H (every 12 hours) for
+1 weeks.
+Disp:*28 Capsule, Sustained Release(s)* Refills:*0*
+11. Keflex 500 mg Capsule Sig: One (1) Capsule PO every six (6)
+hours for 7 days.
+Disp:*28 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1376**]
+
+Discharge Diagnosis:
+s/p cabg x3  [**2154-7-5**]
+HTN
+elev. chol
+L carotid dz.
+TIA
+OA
+MI
+asthma
+GERD
+ulcerative colitis
+remote esoph. dilatation
+phlebitis
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+may shower over incisions and pat dry
+no lotions, creams or powders on any incision
+may drive if one month if off narcotics
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 100, redness or drainage
+
+Followup Instructions:
+follow up with Dr.[**Last Name (STitle) 25471**] in [**1-14**] weeks
+follow up with Dr. [**Last Name (STitle) 4469**] in [**2-15**] weeks
+follow up with Dr. [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 170**]
+
+
+
+Completed by:[**2154-7-12**]

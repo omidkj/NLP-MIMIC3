@@ -1,0 +1,215 @@
+Admission Date:  [**2149-9-20**]              Discharge Date:   [**2149-9-26**]
+
+Date of Birth:  [**2104-4-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Sevoflurane
+
+Attending:[**First Name3 (LF) 1162**]
+Chief Complaint:
+back pain, hypertension
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr. [**Known lastname 73843**] [**Known lastname **] is a 45 man with with a history of diabetes
+and ESRD on HD, who presents with back pain and a missed
+dialysis session.
+.
+Two recent admission ([**8-25**] - [**8-28**] and [**9-5**] - [**9-12**]). The
+former admission was for nausea/vomiting and resulted in a
+diagnosis of gastroparesis. The latter admission was for edema
+and weight gain which was felt to be secondary to dietary
+indiscretion resulting in fluid overload as well right heart
+failure secondary to left heart failure. A thorough work-up
+included normal albumin, TSH and cholesterol. Diagnostic para
+showing macrophages, though otherwise unrevealing. The patient's
+ascites improved considerably with hemodialysis and
+ultrafiltration. Also noted to have a pericardial effusion and
+pulmonary hypertention by echo.
+.
+Four days prior to admission, patient felt dizzy prior dialysis
+and fell onto the ground and onto his back. Since then, he has
+been experiencing worsenimg back pain, exacerbated with walking
+up and down stairs and lying on his back. Pain is described as
+both sharp and dull. He has taken Motrin and Tylenol with some
+relief. Did not go to dialysis today given his pain.
+.
+In the ED, was afebrile with an initial BP of 161/83. BP
+increased to 212/82 and was started on nitro gtt (titrated up to
+50mcg/min). O2 sat fell to 80s and the patient was started on a
+NRB. Noted to be somewhat lethargic but oriented x3. Treated for
+hyperkalemia with calcium gluconate 1gram, 10 units of insulin,
+amp of D50, amp of bicarb and kayexalate. For FS of 63, given
+additionaly amp of D50 with latest FS of 123.
+
+
+Past Medical History:
+1. Diabetes mellitus, type I
+- c/b retinopathy (legally blind in left eye), neuropathy and
+nephropathy
+2. End Stage Renal Disease, HD TThS
+- AVG creation on [**8-6**], not being used yet
+3. Congestive heart failure, EF 40-45% ([**2149-9-6**])
+4. Hypertension
+5. Pulmonary hypertension
+6. Glaucoma
+7. s/p surgical debridement of left arm fistula ([**5-24**]) and
+ruptured aneurysm repair ([**6-24**])
+8. History of PEA arrest in [**6-24**]
+9. History of positive PPD, s/p one year of treatment
+
+
+Social History:
+Originally from [**Male First Name (un) 1056**]. Separated, with five healthy
+children. Not currently working, but has worked for a security
+guard in the past. He just moved from [**Location (un) 7349**] to permanently stay in
+[**Location (un) 86**] and is homeless. He denies current tobacco use (quit
+several years ago). He denies EtOH or illicit drug use
+
+Family History:
+Multiple siblings with HTN and diabetes. Two sisters with a
+"[**Last Name **] problem." No known early coronary disease or kidney
+disease.
+
+
+Physical Exam:
+On Admission
+---------
+vitals - T 97.0, BP 155/90, HR 72, RR 20, 100% on NRB, 95% on
+room air.
+gen - Breathing comfortably and in no distress.
+heent - JVP hard to assess. Glaucoma in left eye.
+cv - Regular with no murmurs. +S4.
+pulm - Bibasilar crackles. Expiratory wheeze.
+abd - Soft and non-tender.
+ext - Warm. No edema.
+back - Mild tenderness at L-spine.
+neuro - Alert, oriented x3. Strength 5/5 throughout. Sensation
+grossly intact though patient was 0/2 when asked to identify
+which toe was being touched and has decreased proprioception.
+
+
+Pertinent Results:
+Admit Labs:
+----------
+136 93 83
+------------- 130
+7.0 27 10.0 (repeat K: 5.7)
+.
+CK: 89
+.
+WBC: 5.0
+PLT: 143
+HCT: 34.8
+N:65.4 L:23.8 M:6.6 E:4.0 Bas:0.3
+.
+UA: 1.019 / 7.0 Bld Tr Nitr Neg Prot 500 Glu 100
+RBC 0 WBC 0-2
+.
+Serum Tricyc Pos
+Serum ASA, EtOH, Acetmnphn, Benzo, Barb Negative
+Urine Benzos, Barbs, Opiates, Cocaine, Amphet, Mthdne Negative
+.
+EKG: Sinus tachycardia. 1st degree AV block. Left axis. LAA.
+Peaked T-waves.
+.
+CXR ([**2149-9-20**]): Cardiomegaly with some fullness of right
+pulmonary vasculature.
+.
+CT HEAD ([**2149-9-20**]):
+There is no intra- or extra-axial hemorrhage. There is no mass
+effect or shift of normally midline structures. The ventricles,
+cisterns, and sulci maintain a normal configuration and the
+[**Doctor Last Name 352**]-white matter differentiation is preserved. The visualized
+paranasal sinuses are clear, the mastoid air cells are clear,
+and no fractures are identified. The patient is edentulous.
+.
+CT L-SPINE ([**2149-9-20**]):
+There is loss of the normal lumbar lordosis. Vertebral body
+alignment is anatomic. Vertebral body height is preserved. No
+fractures are
+identified. Very mild posterior disc bulges are present at L3-L4
+and L4-L5, there is no evidence for spinal canal narrowing. The
+neural foramina are normal at all levels.
+.
+Alternate read: Nondisplaced fractures through left L1, L2
+transverse processes.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 73843**] [**Known lastname **] is a 45 man with with a history of diabetes
+and ESRD on HD who was admitted on [**9-20**] with back pain and
+hypertensive urgency after missing an HD treatment. Initially in
+the ED, he was afebrile with a BP of 161/83. BP increased to
+212/82 and was started on nitro gtt (titrated up to 50mcg/min).
+O2 sat fell to 80s and the patient was started on a NRB. Noted
+to be somewhat lethargic but oriented x3. Treated for
+hyperkalemia (k 7.0)and admitted to the ICU for hypertensive
+urgency. Of note, in setting of fall, had head CT which was
+negative, and L spine CT with nondisplaced L2-L3 fracture. The
+patient was seen by the orthopedics team with a recommendation
+that no acute intervention or bracing was necessary.
+
+In ICU, the plan was initially for HD, however after initiating
+HD patient moved his arm and the AV fistula infiltrated, so
+dialysis could not be continued at that time.  The patient was
+managed with kayexalate and IV calcium, insulin.  HD was resumed
+the next day without complications.  The patient's electrolytes
+have remained stable.  He was placed back on his home regimen of
+anti-hypertensives with adequate control of his BP.  Of note,
+there was initial difficulty accessing the AV fistula with the
+above mentioned infiltration.  To evaluate the patency a
+fistulogram was obtained on [**9-25**] which showed no evidence of
+clot and patent flow.  The area where the intial infiltration
+occurred continues to improve.  The patient will be discharged
+with HD follow up tomorrow at his outpatient center.  At
+discharge the patient's potassium is 4.9. He will resume his
+Tu,Th,Sat HD tomorrow.
+
+In regards to the patient's back pain, he has sustained the
+above mentioned non-displaced fractures that do not require
+surgical intervention at this time. He will be discharged on
+oxycodone for pain relief as well as a bowel regimen while
+receiving narcotics.  The patient has been instructed to follow
+up with his PCP if he develops any new neurological symptoms,
+worsening back pain or weakness.
+
+Medications on Admission:
+1. Aspirin 81 mg daily
+2. Furosemide 80 mg daily
+3. Metoprolol Tartrate 50 mg TID
+4. Amlodipine 7.5 daily
+5. Losartan 100 mg daily
+6. Isosorbide Mononitrate 30 mg SR
+7. Hydralazine 10 mg q8h
+8. Insulin slinding scale Lantus 4 U bed time
+9. Calcium Acetate 1664 TID with meals
+10. Prilosec OTC 20 mg daily
+11. Docusate Sodium 100 mg [**Hospital1 **]
+12. Amitriptyline 25 mg qhs
+13. Lanthanum 500 mg TID with meals
+14. B Complex-Vitamin C-Folic Acid 1 mg / daily
+15. Reglan 5 mg TID
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+3. Hydralazine 10 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours).
+4. Losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+6. Lanthanum 500 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Prilosec OTC 20 mg Tablet, Delayed Release (E.C.) Sig: One
+(1)

@@ -1,0 +1,146 @@
+Admission Date:  [**2157-10-21**]     Discharge Date:  [**2157-10-29**]
+
+
+Service:
+
+CHIEF COMPLAINT:  Tachypnea and acute respiratory failure.
+
+HISTORY OF PRESENT ILLNESS: The patient is a [**Age over 90 **]-year-old
+female with a history of COPD and asthma, found by EMS
+tachypneic and lethargic after patient pressed her life-line
+activation of EMS.  She was brought to [**Hospital6 649**] E.D. where she was found to be hypercarbic and
+acidemic and was intubated for respiratory distress.  She was
+admitted to the ICU for management of respiratory failure and
+also found to be in acute and chronic renal failure with some
+component of congestive heart failure.  She was extubated on
+the second hospital day and was also found to be in metabolic
+acidosis, thought to be secondary to renal failure.  She
+tolerated extubation quite well in the ICU and had started
+treatment with I.V. steroids.  Her medical status improved
+and she was to be transferred to the floor.  Per family, the
+patient was feeling weaker and more fatigued over the past
+week and a home health aide found her to be more confused and
+lethargic on the day prior to admission to the hospital.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease.
+2.  Obstructive cardiomyopathy.
+3.  Chronic obstructive pulmonary disease.
+4.  Asthma.
+5.  Chronic renal failure.
+6.  Hypertension.
+7.  History of upper GI bleeding secondary to [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-[**Doctor Last Name **]
+tear.
+8.  Gout.
+9.  Anemia.
+10. Vertigo.
+
+MEDICATIONS UPON ADMISSION TO THE HOSPITAL:
+1.  Lasix 80 mg p.o. t.i.d.
+2.  Lopressor 50 mg p.o. b.i.d.
+3.  Prilosec 40 mg p.o. q.d.
+4.  Prednisone 5 mg p.o. q.d.
+5.  Meclizine 25 mg.
+6.  Oxazepam 15 mg p.o. q.h.s.
+7.  Atrovent inhalers.
+8.  >....................< ophthalmic drops 1 drop in the
+left eye per day.
+
+MEDICATIONS IN ICU:
+1.  Heparin subcu 5,000 units b.i.d.
+2.  Protonix 40 mg q.d.
+3.  Two days of I.V. Solu-Medrol.
+4.  Atrovent and albuterol nebs.
+5.  Prednisone 60 mg p.o. q.d.
+6.  Levaquin 250 mg p.o. q.d.
+7.  Lopressor 25 mg p.o. t.i.d., increased to 50 mg p.o.
+b.i.d.
+8.  Lasix 80 mg p.o. q.d.
+
+EXAM UPON PRESENTATION:  Temperature 98.1??????, blood pressure
+170/92, pulse 86, respirations 26, and 96% on 2 liters.  In
+general, the patient is an elderly female lying in bed in no
+apparent distress.  HEENT reveals moist mucous membranes,
+nasal cannula in place.  Lungs were fairly clear to
+auscultation with minimal crackles and wheezes.
+Cardiovascular was regular rate and rhythm without murmurs,
+rubs, or gallops.  The abdomen is soft, nontender,
+nondistended, with positive bowel sounds.  The extremities
+showed 1+ edema bilaterally.  The neurological exam revealed
+cranial nerves that were intact.  Speech was fluent and
+comprehensible by relatives who understood [**Name (NI) 595**].
+
+LABS UPON PRESENTATION:  White count of 10.3, hematocrit of
+35.5, platelets 220, sodium 145, potassium 5.2, chloride 114,
+bicarb 22, BUN 52, creatinine 2.2, magnesium 1.9.  These labs
+were upon admission to the floor.
+
+RADIOLOGICAL DATA:  Lower extremity non-invasive was negative
+for deep venous thrombosis.  Chest x-ray done many times
+showed congestive heart failure with minimal bilateral
+pleural effusions and bilateral bibasilar atelectasis versus
+infiltrate.
+
+HOSPITAL COURSE BY PROBLEM:
+1.  SHORTNESS OF BREATH:  This was thought to be attributable
+to both the CHF exacerbation and the COPD exacerbation.  She
+was also thought to have questionable infiltrate, thus she
+was started on Levofloxacin.  For the CHF exacerbation, she
+was placed on furosemide with diuresis and kept on strict
+I&Os.  For COPD exacerbation, she was kept on prednisone 60
+mg orally after two days of I.V. Solu-Medrol and appeared to
+do well.  She continued to have nebulizer treatments and her
+O2 sats were satisfactory upon room air.
+
+2.  CHRONIC RENAL FAILURE:  The patient's baseline creatinine
+was approximately anywhere from 2.1 to 2.6.  The patient's
+creatinine did increase with diuresis, however did resolve by
+the time of discharge somewhat.
+
+3.  HYPERTENSION:  The patient's blood pressure was well
+controlled on a Lopressor dose of 50 mg p.o. b.i.d.
+
+DISCHARGE CONDITION:  Fair.
+
+DISCHARGE STATUS:  To pulmonary rehab.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease.
+2.  Obstructive cardiomyopathy.
+3.  COPD.
+4.  CHF.
+5.  Chronic renal failure.
+6.  Hypertension.
+7.  History of upper GI bleed secondary to [**Doctor First Name **]-[**Doctor Last Name **]
+tear.
+8.  Gout.
+9.  Anemia.
+10. Vertigo.
+
+DISCHARGE MEDICATIONS:
+1.  Metoprolol 50 mg p.o. t.i.d.
+2.  Vitamin D 400 units p.o. q.d.
+3.  Calcium carbonate 500 mg p.o. t.i.d.
+4.  Imdur 30 mg p.o. q.d.
+5.  Ipratropium nebulizers q.6 p.r.n. wheeze.
+6.  Albuterol nebs q.6 p.r.n. wheeze.
+7.  Albuterol/ipratropium inhalers 1 puff q.6 hours.
+8.  Docusate sodium 100 mg p.o. b.i.d.
+9.  Pantoprazole 40 mg p.o. q.d.
+10. Prednisone 60 mg p.o. q.d., written on a taper to
+decrease by 10 mg every 3 days.
+11. Levofloxacin 250 mg p.o. q.d. for 2 more days.
+12. Furosemide 80 mg p.o. q.d.
+
+
+
+
+                          [**Name6 (MD) 251**] [**Name8 (MD) **], M.D.  [**MD Number(1) 1197**]
+
+Dictated By:[**Name8 (MD) 4064**]
+
+MEDQUIST36
+
+D:  [**2157-10-29**]  08:21
+T:  [**2157-10-29**]  08:29
+JOB#:  [**Job Number **]

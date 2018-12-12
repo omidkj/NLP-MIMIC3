@@ -1,0 +1,224 @@
+Admission Date:  [**2187-8-22**]              Discharge Date:   [**2187-8-30**]
+
+Date of Birth:  [**2128-5-2**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Grass Pollen-Bermuda, Standard / [**Doctor Last Name **] / Dust & Pollen Filter
+Mask
+
+Attending:[**First Name3 (LF) 148**]
+Chief Complaint:
+Jaundice.
+
+Major Surgical or Invasive Procedure:
+[**2187-8-22**]:
+1. Pylorus-preserving pancreaticoduodenectomy.
+2. Open cholecystectomy.
+3. Staging laparoscopy.
+[**2187-8-23**]:
+1. Reopening of recent laparotomy and control of intra-abdominal
+bleeding.
+
+
+History of Present Illness:
+This very nice 59-year-old woman recently became jaundiced.  A
+workup ensued and found her to have biliary obstruction on
+account of a mass in the head of her pancreas.  This mass was
+ultimately visualized by CAT scan and seemed to be a resectable
+lesion.  It was finally analyzed by endoscopic ultrasound and a
+biopsy of this proved adenocarcinoma. The patient has been
+informed of the diagnosis. She was admitted for planned Whipple
+surgery.
+
+
+Past Medical History:
+Her medical history is significant for hypercholesterolemia,
+sleep apnea, asthma, overactive bladder, arthritis, gout, HTN,
+borderline hypothyroidism, obesity, and mild GERD.
+
+Her surgical history is significant for hysterectomy in [**2178**] as
+well as a left knee arthroscopy in [**2183**].  She has had two
+pilonidal cyst operations, tonsillectomy, and adenoidectomy in
+the distant past.  Her GI procedures include the aforementioned
+ERCP and EUS and she is currently stented.
+
+
+Social History:
+Occassion alcohol. No tobacco or illicits.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+On Admission:
+AVSS/afebrile
+GEN: Well appearing in NAD.
+HEENT: Sclerae anicteric. O-P clear.
+NECK: Supple.
+LUNGS: CTA(B).
+COR: RRR
+ABD: Protuberant. Soft/NT/ND.
+EXTREM: No c/c/e.
+NEURO: A+Ox3. Non-focal/grossly intact.
+.
+At Discharge:
+VS: 98.8 PO, 88, 144/88, 20, 94% RA
+GEN: Well appearing in NAD.
+HEENT: Sclerae anicteric. O-P clear.
+NECK: Supple.
+LUNGS: CTA(B).
+COR: RRR
+ABD: Subcostal and umbilical incisions with steri-strips OTA
+c/d/i. Appropriately tender to palpation along incision,
+otherwsie soft/NT/ND.
+EXTREM: No c/c/e.
+NEURO: A+Ox3. Non-focal/grossly intact.
+
+Pertinent Results:
+On Admission:
+[**2187-8-22**] 07:21PM   GLUCOSE-185* UREA N-12 CREAT-0.9 SODIUM-144
+POTASSIUM-4.6 CHLORIDE-110* TOTAL CO2-21* ANION GAP-18
+[**2187-8-22**] 07:21PM   CK(CPK)-314*
+[**2187-8-22**] 07:21PM   CK-MB-5 cTropnT-<0.01
+[**2187-8-22**] 07:21PM   CALCIUM-8.4 PHOSPHATE-4.4 MAGNESIUM-2.1
+[**2187-8-22**] 07:21PM   WBC-11.9*# RBC-4.47 HGB-12.0 HCT-37.6 MCV-84
+MCH-26.9* MCHC-32.0 RDW-15.7*
+[**2187-8-22**] 07:21PM   PLT COUNT-307
+[**2187-8-22**] 07:21PM   PT-12.5 INR(PT)-1.1
+[**2187-8-22**] 04:54PM   GLUCOSE-157* LACTATE-3.4* NA+-141 K+-4.6
+CL--105 TCO2-23
+[**2187-8-22**] 04:54PM   HGB-13.3 calcHCT-40
+[**2187-8-22**] 04:54PM   freeCa-1.18
+[**2187-8-22**] 04:54PM   freeCa-1.18
+.
+At Discharge:
+[**2187-8-26**] 04:42AM BLOOD WBC-11.8* RBC-3.20* Hgb-9.1* Hct-28.4*
+MCV-89 MCH-28.5 MCHC-32.1 RDW-16.1* Plt Ct-172
+[**2187-8-23**] 10:50AM BLOOD Neuts-73.4* Lymphs-22.0 Monos-3.9 Eos-0.1
+Baso-0.6
+[**2187-8-26**] 04:42AM BLOOD Plt Ct-172
+[**2187-8-30**] 06:10AM BLOOD K-3.9
+[**2187-8-23**] 10:50AM BLOOD ALT-649* AST-719* AlkPhos-83 Amylase-40
+TotBili-2.0*
+[**2187-8-30**] 06:10AM BLOOD Mg-1.9
+.
+Imaging:
+[**2187-8-22**] Abdominal x-ray:
+FINDINGS: Study is suboptimal secondary to patient body habitus
+and patient motion. Nasogastric tube is seen extending into the
+expected location of the stomach. There is a line.catheter
+extending along the the right abdomen to the level of the T11
+vertebral body. A horizontal line of surgical staples is seen
+extending across the abdomen. Horizontal linear density in the
+left upper quadrant is felt to most likely be artifactual.
+Otherwise, no definite evidence of a radiopaque needle or other
+surgical foreign body. Surgical staples also noted overlying the
+upper left pelvis.
+.
+[**2187-8-22**] CXR:
+Elevation of the right hemidiaphragm may be due to right lower
+lobe atelectasis, common postoperative finding. Upper lungs are
+clear. Pleural effusion is minimal if any. No pneumothorax.
+Normal cardiomediastinal silhouette. Right jugular line tip
+projects over the low SVC and a nasogastric tube passes into the
+stomach.
+.
+Pathology:
+SPECIMEN SUBMITTED: Jejunum, Whipple specimen, Gallbladder,
+Whipple's node.
+
+DIAGNOSIS:
+1.  Gallbladder (A): Chronic cholecystitis.
+2.  Lymph node, "Whipple," (B-C): One lymph node with no
+carcinoma seen.
+3.  Jejunum, segment (D): Unremarkable small intestine.
+4.  Pancreas and duodenum, Whipple procedure (E-T):
+Adenocarcinoma, moderately differentiated, 2.5 cm, See Synoptic
+Report.
+Pancreas (Exocrine): Resection Synopsis
+
+MACROSCOPIC
+
+Specimen Type:  Pancreaticoduodenectomy, partial pancreatectomy.
+Tumor Site:  Pancreatic head.
+Tumor Size
+    Greatest dimension:  2.5 cm.  Additional dimensions:  1.8 cm
+x 1.6 cm.
+Other organs/Tissues Received:  Gallbladder, Jejunum. Whipple's
+lymph node.
+
+MICROSCOPIC
+
+Histologic Type:  Ductal adenocarcinoma.
+Histologic Grade:  G2:  Moderately differentiated.
+
+EXTENT OF INVASION
+
+Primary Tumor:  pT3:  Tumor extends beyond the pancreas but
+without involvement of the celiac axis or the superior
+mesenteric artery.
+Regional Lymph Nodes:  pN1b:  Metastasis in multiple regional
+lymph nodes.
+Lymph Nodes
+    Number examined:  20.
+    Number involved:  4.
+Distant metastasis:  pMX:  Cannot be assessed.
+Margins:
+    Margins uninvolved by invasive carcinoma:
+        Distance from closest margin:  5 mm.  Specified margin:
+Posterior retroperitoneal.
+Venous/Lymphatic vessel invasion:  Absent.
+Perineural invasion:  Present.
+Additional Pathologic Findings:  Chronic pancreatitis.
+Comments:  Adenocarcinoma extends into peripancreatic fat and
+into the duodenal mucosa.
+
+Clinical: Pancreatic cancer.
+Gross:
+
+The specimen is received fresh in four parts, each labeled with
+the patient's name, "[**Known lastname 60542**], [**Known firstname **]" and the medical record
+number.
+
+Part 1 is additionally labeled "gallbladder." It consists of a
+gallbladder measuring 12.0 x 2.7 x 2.3 cm. The gallbladder is
+opened to reveal velvety pink mucosa.  There are no stones and
+approximately 10 cc of residual, green sludgy bile.   Part 1 is
+represented in cassette A.
+
+Part 2 is additionally labeled "Whipple's node." It consists of
+a lymph node, measuring 2.3 1.7 x 0.5 cm.  The lymph node is
+bisected and submitted entirely in B-C.
+
+Part 3 is additionally labeled "jejunum." It consists of a
+segment of jejunum measuring 14.5 cm in length and 5.8 cm in
+circumference. The serosal surface is smooth and shiny. The
+resection margins are stapled.  The bowel is opened to reveal
+unremarkable tan and pink mucosa.  The resection margins are
+submitted in cassette D.
+
+Part 4 is additionally labeled "Whipple." It consists of a
+pancreaticoduodenectomy specimen that measures 12.8 x 5.2 x 4.5
+cm in overall dimension. The pancreatic portion is composed of
+the head and measures 5.2 x 4.5 x 2.6 cm.  The duodenal segment
+measures 12.8 cm in length and 6.4 cm in circumference.  Both
+proximal and distal resection margins are stapled with staple
+lines at each measuring 4.5 cm. It is oriented by the surgeon
+with a black silk suture indicating bile duct, a blue suture
+indicating the pancreatic neck margin and a green suture
+indicating the superior mesenteric artery. The posterior
+retroperitoneal margin is identified and is inked [**Location (un) 2452**].  The
+pancreatic parenchymal margin is inked in blue. The uncinate
+margin is inked black. The duodenum is opened to reveal a
+prominent fold, 1.2 cm from the proximal  resection margin. The
+bile duct segment measures 8.5 cm from ampulla to the distal
+end. A segment of the cystic duct is present and joins the
+common bile duct.  The bile duct is patent. The bile duct is
+opened to reveal unremarkable mucosa. The pancreas is serially
+sliced to reveal a tumor that measures 2.5 x 1.8 x 1.6 cm and
+that lies 0.5 cm from the posterior retroperitoneal margin.  The
+uninvolved pancreatic parenchyma is unremarkable.  The
+peripancreatic adipose tissue is dissected to reveal several
+potential lymph nodes.   I

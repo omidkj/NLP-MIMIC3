@@ -163,6 +163,9 @@ project/plugins/project/
 .history
 .cache
 .lib/
+.idea/
+.ipynb_checkpoints/
+project/
 ### Scala template
 *.class
 *.log

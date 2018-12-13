@@ -23,7 +23,7 @@ object Main extends App {
 object TextXMLAE2 extends App {
   val crd = CollectionReaderFactory.createReaderDescription(
     classOf[TextReader],
-    TextReader.PARAM_FILES, "notes/test1.txt"
+    TextReader.PARAM_FILES, "notes/000001.txt"
   )
   // This is similar to loading an AE engine
   val ae = AnalysisEngineFactory.createEngineDescription(

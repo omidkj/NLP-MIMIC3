@@ -28,9 +28,11 @@ class QuickAEcsv extends org.apache.uima.fit.component.JCasAnnotator_ImplBase{
     var positive_case = false
     var polarity_case = false
     var uncertainty_case = false
-    val outputFile = "/Users/user/619/uima-annotator/src/main/scala/output/classification_csv.csv"
+    var PATH = System.getProperty("user.dir")
+    PATH = PATH  + "/src/main/scala/"
+    val outputFile = PATH  + "output/classification_csv.csv"
     val csvWriter = new CSVWriter(new FileWriter(outputFile,true))
-    val outputFile2 = "/Users/user/619/uima-annotator/src/main/scala/output/riskfactors_csv.csv"
+    val outputFile2 = PATH  + "output/riskfactors_csv.csv"
     val csvWriter2 = new CSVWriter(new FileWriter(outputFile2,true))
 
     val diseaseOrDisorders = JCasUtil.select(aJCAS, classOf[DiseaseDisorderMention])

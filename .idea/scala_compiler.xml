@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="incrementalityType" value="SBT" />
-    <profile name="sbt 1" modules="omidkj-final-project_5251,omidkj-final-project,uima-annotator" />
+    <profile name="sbt 1" modules="omidkj-final-project_5251,uima-annotator,omidkj-final-project" />
   </component>
 </project>

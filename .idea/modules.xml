@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/omidkj-final-project.iml" filepath="$PROJECT_DIR$/.idea/modules/omidkj-final-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/omidkj-final-project-build.iml" filepath="$PROJECT_DIR$/.idea/modules/omidkj-final-project-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/shared-sources.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uima-annotator.iml" filepath="$PROJECT_DIR$/.idea/modules/uima-annotator.iml" />
     </modules>
   </component>
 </project>

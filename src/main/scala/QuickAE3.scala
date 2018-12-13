@@ -28,9 +28,11 @@ class QuickAE3 extends org.apache.uima.fit.component.JCasAnnotator_ImplBase{
     var positive_case = false
     var polarity_case = false
     var uncertainty_case = false
-    val outputFile = "/Users/user/619/uima-annotator/src/main/scala/output/classification.csv"
+    var PATH = System.getProperty("user.dir")
+    PATH = PATH  + "/src/main/scala/"
+    val outputFile = PATH  + "output/classification.csv"
     val csvWriter = new CSVWriter(new FileWriter(outputFile,true))
-    val outputFile2 = "/Users/user/619/uima-annotator/src/main/scala/output/riskfactors.csv"
+    val outputFile2 = PATH  + "output/riskfactors.csv"
     val csvWriter2 = new CSVWriter(new FileWriter(outputFile2,true))
     for(d <- diseaseOrDisorders_array) {
 

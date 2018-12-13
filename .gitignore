@@ -166,6 +166,9 @@ project/plugins/project/
 .idea/
 .ipynb_checkpoints/
 project/
+resources/
+Src/main/resources/
+
 ### Scala template
 *.class
 *.log

@@ -1,4 +1,5 @@
-# 619 Final Project
+# Detecting true cases of Pulmonary Embolism in MIMIC-III dataset.
+
 
 Please create a branch of `master` called `dev` and submit a pull request back to `master`
 
